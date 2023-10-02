@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5EDE17B9-2043-4211-910B-F7F7DB63B04B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4108919F-9486-4BEE-8F09-0066A4B067E8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoTest/Network/ViewModel/YoutubeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getVideo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4108919F-9486-4BEE-8F09-0066A4B067E8 - 4506e4694bd561f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;VideoTest.Video&gt;, VideoTest.APIError&gt;) -&gt; () in VideoTest.YoutubeViewModel.getVideo() -&gt; ()"
+                  moduleName = "VideoTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/Git/video/VideoTest/VideoTest/Network/ViewModel/YoutubeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "4108919F-9486-4BEE-8F09-0066A4B067E8 - 4506e4694bd561f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;VideoTest.Video&gt;, VideoTest.APIError&gt;) -&gt; () in VideoTest.YoutubeViewModel.getVideo() -&gt; ()"
+                  moduleName = "VideoTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jh/Git/video/VideoTest/VideoTest/Network/ViewModel/YoutubeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CF6468A-E4CA-41BF-A1D0-87BE0E988C08"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VideoTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
